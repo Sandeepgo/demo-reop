@@ -1,0 +1,3 @@
+###Proxy Entries####
+ProxyPass   /  http://TomcatIP:8090/
+ProxyPassReverse  /  http://TomcatIP:8090/
